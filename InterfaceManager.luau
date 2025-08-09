@@ -7,7 +7,7 @@ local InterfaceManager = {} do
         Theme = "Dark",
         Acrylic = true,
         Transparency = true,
-        MenuKeybind = Enum.KeyCode.RightControl
+        MenuKeybind = Enum.KeyCode.Semicolon
     }
 
     function InterfaceManager:SetFolder(folder)
